@@ -1,2 +1,2 @@
-# hangmanApp
-A Simple hangman game for angular kickstart in 39 mins.
+# HangmanApp
+A Simple Hangman Game for Angular Start
